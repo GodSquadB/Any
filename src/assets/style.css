@@ -523,6 +523,9 @@ nav {
 .adv-bg img {
   transform: translateY(17%);
 }
+.commn {
+  padding: calc(var(--bs-gutter-x) * 0.5);
+}
 /* MAIN TARRIFS */
 .main-tarrifs {
   padding-top: 100px;

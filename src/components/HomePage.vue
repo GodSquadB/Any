@@ -536,25 +536,25 @@
               </h2>
             </div>
             <div class="row">
-              <div class="col-sm-6 col-12 adv-list">
+              <div class="col-sm-6 col-12 commn">
                 <div class="adv-body">
                   Только системный подход – контроль версий, резервирование и
                   тестирование!
                 </div>
               </div>
-              <div class="col-sm-6 col-12 adv-list">
+              <div class="col-sm-6 col-12 commn">
                 <div class="adv-body">
                   Только Drupal сайты, не берем на поддержку сайты на других
                   CMS!
                 </div>
               </div>
-              <div class="col-sm-6 col-12 adv-list">
+              <div class="col-sm-6 col-12 commn">
                 <div class="adv-body">
                   Участвуем в разработке ядра Drupal и модулей на Drupal.org,
                   разрабатываем <a href="#">свои модули Drupal</a>
                 </div>
               </div>
-              <div class="col-sm-6 col-12 adv-list">
+              <div class="col-sm-6 col-12 commn">
                 <div class="adv-body">
                   Поддерживаем сайты на Drupal 5, 6, 7, 8 и 9
                 </div>
